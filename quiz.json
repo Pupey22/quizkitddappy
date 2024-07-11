@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of international relations.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is the UN?",
+      "answers": ["Union", "Nations", "Trade"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is NATO?",
+      "answers": ["Treaty", "Trade", "Union"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is the IMF?",
+      "answers": ["Fund", "Market", "Union"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is the WTO?",
+      "answers": ["Trade", "Treaty", "Union"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Where is the EU based?",
+      "answers": ["Brussels", "Geneva", "Paris"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is diplomacy?",
+      "answers": ["Negotiation", "Conflict", "Union"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an embassy?",
+      "answers": ["Mission", "Union", "Trade"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is OPEC?",
+      "answers": ["Oil", "Trade", "Union"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a treaty?",
+      "answers": ["Agreement", "Union", "Fund"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is G7?",
+      "answers": ["Group", "Union", "Fund"],
       "correctAnswerIndex": 0
     }
   ]
